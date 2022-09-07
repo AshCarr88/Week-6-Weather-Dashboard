@@ -40,7 +40,6 @@ The following image shows the web application's appearance and functionality:
 ![](screenshots/weather-dash-4.png)
 
 
-![The weather app includes a search option, a list of cities, and a five-day forecast and current weather conditions for Atlanta.](./Assets/06-server-side-apis-homework-demo.png)
 
 
 © 2022 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
